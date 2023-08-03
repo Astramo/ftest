@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.583" height="20.481" viewBox="0 0 18.583 20.481">
+  <g id="Iconly_Light_Calendar" data-name="Iconly/Light/Calendar" transform="translate(0.75 0.75)">
+    <g id="Calendar" transform="translate(0 0)">
+      <path id="Line_200" d="M0,.473H16.916" transform="translate(0.088 6.554)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_201" d="M.459.473H.467" transform="translate(12.299 10.261)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_202" d="M.459.473H.467" transform="translate(8.087 10.261)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_203" d="M.459.473H.467" transform="translate(3.867 10.261)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_204" d="M.459.473H.467" transform="translate(12.299 13.949)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_205" d="M.459.473H.467" transform="translate(8.087 13.949)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_206" d="M.459.473H.467" transform="translate(3.867 13.949)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_207" d="M.463,0V3.123" transform="translate(11.916 0)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Line_208" d="M.463,0V3.123" transform="translate(4.249 0)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path" d="M12.564,0H4.528C1.741,0,0,1.553,0,4.407V13c0,2.9,1.741,4.487,4.528,4.487h8.027c2.8,0,4.528-1.562,4.528-4.415V4.407C17.092,1.553,15.36,0,12.564,0Z" transform="translate(0 1.499)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
